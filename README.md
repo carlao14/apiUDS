@@ -11,7 +11,9 @@ Projeto criado para avaliação - Rest/API Php/Laravel
  *Nota: No arquivo de configuração config/cors.php, os parametros estão representados por * para que possam testar de qualquer dominio. 
  
  
- # Instalação 
+ # Instalação
+ *Renomeie o arquivo <code> database/db.txt </code> para <code> database/db.sqlite </code>
+ 
  <code> php artisan serve </code> <br />
  
  *O front desse projeto se encontra nesse <a href="https://github.com/carlao14/frontUDS" target="_blank" > LINK </a> 
